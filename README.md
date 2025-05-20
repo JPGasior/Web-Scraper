@@ -1,2 +1,2 @@
 # Web-Scraper
-This is an attempt to pull data from web sites
+This is an attempt to pull data from web sites to perform competiive analysis
